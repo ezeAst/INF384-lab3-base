@@ -1,3 +1,3 @@
-bucket = "inf384-tfstate-20213298"
+bucket = "inf384-tfstate-2021329"
 key    = "lab3/terraform.tfstate"
 region = "us-east-1"
