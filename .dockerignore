@@ -1,0 +1,11 @@
+# Excluir todo por defecto
+*
+
+# Permitir solo lo que necesita el build
+!package.json
+!package-lock.json
+!src
+
+# Las pruebas no llegan a la imagen
+**/*.test.js
+**/__tests__
